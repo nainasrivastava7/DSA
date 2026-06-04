@@ -1,2 +1,45 @@
+
 # DSA
-My Data Structures and Algorithms learning journey with solutions, notes, and problem-solving practice.
+
+This repository documents my Data Structures and Algorithms journey.
+
+## Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+- Recursion
+- Searching & Sorting
+
+## Languages
+
+- C++
+- Python (where applicable)
+
+## Goal
+
+To strengthen problem-solving skills and prepare for coding interviews and placements.
+
+---
+
+## Progress Tracker
+
+| Topic | Questions Solved |
+|---------|---------|
+| Arrays | 0 |
+| Strings | 0 |
+| Linked Lists | 0 |
+| Stack | 0 |
+| Queue | 0 |
+| Trees | 0 |
+| Graphs | 0 |
+| DP | 0 |
+
+---
+
+⭐ Consistency over perfection.
