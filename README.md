@@ -8,8 +8,7 @@ This repository documents my Data Structures and Algorithms journey.
 - Arrays
 - Strings
 - Linked Lists
-- Stack
-- Queue
+- Stack & Queues
 - Trees
 - Graphs
 - Dynamic Programming
@@ -34,8 +33,7 @@ To strengthen problem-solving skills and prepare for coding interviews and place
 | Arrays | 0 |
 | Strings | 0 |
 | Linked Lists | 0 |
-| Stack | 0 |
-| Queue | 0 |
+| Stack & Queues | 0 |
 | Trees | 0 |
 | Graphs | 0 |
 | DP | 0 |
