@@ -33,7 +33,7 @@ To strengthen problem-solving skills and prepare for coding interviews and place
 | Arrays | 0 |
 | Strings | 0 |
 | Linked Lists | 0 |
-| Stack & Queues | 0 |
+| Stack & Queues | 6 |
 | Trees | 0 |
 | Graphs | 0 |
 | DP | 0 |
